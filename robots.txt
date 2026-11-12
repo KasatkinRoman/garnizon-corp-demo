@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://kasatkinroman.github.io/garnizon-corp-demo/sitemap.xml
