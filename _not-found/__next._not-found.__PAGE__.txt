@@ -1,26 +1,27 @@
 2:"$Sreact.fragment"
-3:"/garnizon-corp-demo/_next/static/chunks/3gmnz17b4-7co.js"
-4:I[39756,["$3"],"default"]
-5:I[37457,["$3"],"default"]
-a:I[22016,["$3"],""]
-b:I[97367,["$3"],"OutletBoundary"]
-c:"$Sreact.suspense"
-f:"ViewportBoundary"
-10:I[97367,["$3"],"$f"]
-11:"MetadataBoundary"
-12:I[97367,["$3"],"$11"]
-13:I[27201,["$3"],"IconMark"]
-7:X
-7:C
+3:"/garnizon-corp-demo/_next/static/chunks/1ua2kfq9s-me6.js"
+4:"/garnizon-corp-demo/_next/static/chunks/2gbirj1i96ud-.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:I[27201,["$3","$4"],"IconMark"]
 8:X
-9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container-site section-y","children":[["$","h1",null,{"className":"text-3xl md:text-4xl","children":"Страница не найдена"}],["$","p",null,{"className":"mt-4 text-muted","children":[["$","$La",null,{"href":"/","className":"underline","children":"На главную"}]," или выберите направление:"]}],["$","ul",null,{"className":"mt-4","children":[["$","li","metal-doors-gates",{"children":["$","$La",null,{"href":"/metal-doors-gates/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Двери и ворота"}]}],["$","li","grilles",{"children":["$","$La",null,{"href":"/grilles/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Решётки"}]}],["$","li","aluminium",{"children":["$","$La",null,{"href":"/aluminium/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Алюминиевые конструкции"}]}],["$","li","fire-aluminium-doors",{"children":["$","$La",null,{"href":"/fire-aluminium-doors/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Противопожарные алюминиевые двери"}]}],["$","li","glass-units",{"children":["$","$La",null,{"href":"/glass-units/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Стеклопакеты"}]}]]}]]}],null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$8"}}]]
-1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#15181d"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций"}],["$","meta","1",{"name":"description","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций в Московской области с 2013 года. Замер, доставка, монтаж."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций"}],["$","meta","4",{"property":"og:description","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций в Московской области с 2013 года. Замер, доставка, монтаж."}],["$","meta","5",{"property":"og:url","content":"https://kasatkinroman.github.io/garnizon-corp-demo/"}],["$","meta","6",{"property":"og:site_name","content":"ГК Гарнизон"}],["$","meta","7",{"property":"og:locale","content":"ru_RU"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций"}],["$","meta","11",{"name":"twitter:description","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций в Московской области с 2013 года. Замер, доставка, монтаж."}],["$","link","12",{"rel":"icon","href":"/garnizon-corp-demo/favicon.svg"}],["$","$L13","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$8"}},"a":"$@15","u":"$@16","b":"-Z7VRDA5HOXDit8ByTP2O"}
-d:null
-16:true
-8:300
 8:C
-15:0
-6:"$undefined"
-14:"$undefined"
-e:"$undefined"
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container-site section-y","children":[["$","h1",null,{"className":"text-3xl md:text-4xl","children":"Страница не найдена"}],["$","p",null,{"className":"mt-4 text-muted","children":[["$","$Lb",null,{"href":"/","className":"inline-flex min-h-11 items-center underline","children":"На главную"}]," или выберите направление:"]}],["$","ul",null,{"className":"mt-4","children":[["$","li","metal-doors-gates",{"children":["$","$Lb",null,{"href":"/metal-doors-gates/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Двери и ворота"}]}],["$","li","grilles",{"children":["$","$Lb",null,{"href":"/grilles/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Решётки"}]}],["$","li","aluminium",{"children":["$","$Lb",null,{"href":"/aluminium/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Алюминиевые конструкции"}]}],["$","li","fire-aluminium-doors",{"children":["$","$Lb",null,{"href":"/fire-aluminium-doors/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Противопожарные алюминиевые двери"}]}],["$","li","glass-units",{"children":["$","$Lb",null,{"href":"/glass-units/","className":"inline-flex min-h-11 items-center hover:text-accent","children":"Стеклопакеты"}]}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#15181d"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Страница не найдена — ГК Гарнизон"}],["$","meta","1",{"name":"description","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций в Московской области с 2013 года. Замер, доставка, монтаж."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций"}],["$","meta","4",{"property":"og:description","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций в Московской области с 2013 года. Замер, доставка, монтаж."}],["$","meta","5",{"property":"og:url","content":"https://garnizon.example/"}],["$","meta","6",{"property":"og:site_name","content":"ГК Гарнизон"}],["$","meta","7",{"property":"og:locale","content":"ru_RU"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций"}],["$","meta","11",{"name":"twitter:description","content":"ГК Гарнизон — производство противопожарных дверей, ворот, решёток и алюминиевых конструкций в Московской области с 2013 года. Замер, доставка, монтаж."}],["$","link","12",{"rel":"icon","href":"/garnizon-corp-demo/favicon.svg"}],["$","$L14","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"Gv7PJVwBn7K7gvyJWftY3"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"
